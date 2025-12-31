@@ -7,7 +7,7 @@ This project focuses on working with APIs, DOM manipulation, and user-friendly i
 ---
 
 ## 🔗 Live Project
-👉 Live Link: https://your-live-link.com  
+👉 Live Link: https://jolly-dolphin-cb85c8.netlify.app/  
 
 👉 GitHub Repository: https://github.com/Rabeya-Khatun1/english-janala
 
