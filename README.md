@@ -24,7 +24,7 @@ A simple and clean interface inspired by the provided Figma design.
 - HTML5  
 - CSS3  
 - Tailwind CSS  
-- Vanilla JavaScript  
+-  JavaScript  
 - Public REST API  
 
 ---
