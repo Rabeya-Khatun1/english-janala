@@ -1,6 +1,4 @@
-# ENGLISH <img width="25px" src="./assets/logo.png" /> JANALA
 
----
 # 📖 ENGLISH JANALA
 
 ENGLISH JANALA is a vocabulary learning web application where users can explore English words level-wise, understand meanings, view examples, hear pronunciation, and save words for later practice.  
